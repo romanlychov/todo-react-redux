@@ -1,0 +1,6 @@
+.container{
+    display: flex;
+}
+.completed {
+    text-decoration: line-through;
+}
